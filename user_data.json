@@ -1,0 +1,53 @@
+[
+  {
+    "username": "eram",
+    "email": "eram@gmail.com",
+    "password": "eram1234"
+  },
+  {
+    "username": "asif",
+    "email": "asif@gmail.com",
+    "password": "asif1234"
+  },
+  {
+    "username": "mehedi",
+    "email": "mehedi@gmail.com",
+    "password": "mehedi1234"
+  },
+  {
+    "username": "rahim",
+    "email": "rahim@gmail.com",
+    "password": "rahim1234"
+  },
+  {
+    "username": "test",
+    "email": "test@gmail.com",
+    "password": "test1234",
+    "firstName": "Test",
+    "lastName": "User name",
+    "profileImage": "https://i.ibb.co/nwHsxJj/image.png"
+  },
+  {
+    "username": "Asif",
+    "email": "asifzaman3123@gmail.com",
+    "password": "eram1234"
+  },
+  {
+    "username": "oni",
+    "email": "asifmehedi98@gmail.com",
+    "password": "1234",
+    "firstName": "Asif",
+    "lastName": "oni",
+    "profileImage": ""
+  },
+  {
+    "username": "asif",
+    "email": "asifzaman3123@gmail.com",
+    "password": "eram1234"
+  },
+  {
+    "username": "Asif1234",
+    "email": "asif.mehedi2001@gmail.com",
+    "password": "1234"
+  }
+]

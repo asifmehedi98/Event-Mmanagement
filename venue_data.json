@@ -1,0 +1,403 @@
+[
+    {
+      "id": 1,
+      "name": "The Grand Ballroom",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5000,
+      "image": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 2,
+      "name": "The Small Hall",
+      "capacity": 200,
+      "location": "Gulshan 2",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 3,
+      "name": "The Conference Room",
+      "capacity": 50,
+      "location": "Banani",
+      "price": 500,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 4,
+      "name": "The Rooftop",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1529290130-4ca3753253ae?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 5,
+      "name": "The Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Royal Banquet Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5500,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 7,
+      "name": "Elegance Event Hall",
+      "capacity": 200,
+      "location": "Uttara",
+      "price": 1500,
+      "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 8,
+      "name": "Skyline Terrace",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 9,
+      "name": "Elegant Hall",
+      "capacity": 50,
+      "location": "Banani",
+      "price": 700,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 10,
+      "name": "Premium Banquet Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 6000,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 11,
+      "name": "Modern Banquet",
+      "capacity": 500,
+      "location": "Gulshan 2",
+      "price": 3000,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 12,
+      "name": "Crystal Rooftop",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5000,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 13,
+      "name": "VIP Conference Room",
+      "capacity": 200,
+      "location": "Uttara",
+      "price": 1200,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 14,
+      "name": "Vista Banquet",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3200,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 15,
+      "name": "Sunset Terrace",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5500,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 16,
+      "name": "Chic Hall",
+      "capacity": 200,
+      "location": "Banani",
+      "price": 1200,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 17,
+      "name": "Prime Banquet",
+      "capacity": 500,
+      "location": "Gulshan 2",
+      "price": 3500,
+      "image": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 18,
+      "name": "Orchid Event Hall",
+      "capacity": 200,
+      "location": "Uttara",
+      "price": 1100,
+      "image": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 19,
+      "name": "Elite Banquet Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5700,
+      "image": "https://plus.unsplash.com/premium_photo-1678297269980-16f4be3a15a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 20,
+      "name": "Executive Banquet Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5200,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 21,
+      "name": "Classic Event Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5800,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 22,
+      "name": "Glamorous Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5500,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 23,
+      "name": "Lux Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 6000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 24,
+      "name": "Royal Terrace",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 25,
+      "name": "Sunrise Hall",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 26,
+      "name": "Lush Garden Venue",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 1800,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 27,
+      "name": "Golden Terrace",
+      "capacity": 300,
+      "location": "Dhanmondi",
+      "price": 3200,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 28,
+      "name": "Regal Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 29,
+      "name": "Heavenly Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 30,
+      "name": "Sky Pavilion",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 31,
+      "name": "Ocean View Rooftop",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 32,
+      "name": "Vintage Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 33,
+      "name": "Chateau Terrace",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 34,
+      "name": "Emerald Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2100,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 35,
+      "name": "Grace Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5700,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 36,
+      "name": "Starry Terrace",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 37,
+      "name": "Crystal Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 38,
+      "name": "Twilight Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2200,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 39,
+      "name": "Zenith Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5600,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 40,
+      "name": "Majestic Banquet",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 6000,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 41,
+      "name": "Azure Conference Room",
+      "capacity": 50,
+      "location": "Banani",
+      "price": 700,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 42,
+      "name": "Summit Conference Room",
+      "capacity": 50,
+      "location": "Banani",
+      "price": 650,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 43,
+      "name": "Heritage Rooftop",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 44,
+      "name": "Terrace Elite",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3200,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 45,
+      "name": "Infinity Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 46,
+      "name": "Crescent Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 5900,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 47,
+      "name": "Regency Banquet",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 6100,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 48,
+      "name": "Paragon Hall",
+      "capacity": 1000,
+      "location": "Mirpur 10",
+      "price": 6200,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 49,
+      "name": "Opulent Rooftop",
+      "capacity": 500,
+      "location": "Dhanmondi",
+      "price": 3400,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": 50,
+      "name": "Vista Garden",
+      "capacity": 300,
+      "location": "Uttara",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=500&auto=format&fit=crop&q=60"
+    }
+  ]
+  
